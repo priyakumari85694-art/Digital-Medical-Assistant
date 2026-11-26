@@ -1,0 +1,6 @@
+{
+  "name": "Digital Medical Assistant",
+  "description": "Smart, accessible healthcare information whenever you need it. Educational health guidance, symptom exploration, medication references, and interactive assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
